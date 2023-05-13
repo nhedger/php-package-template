@@ -20,6 +20,16 @@ Locally, the following command will attempt to fix all coding standard violation
 composer fix-standards
 ```
 
+## Tests
+
+This project uses [`phpunit`](https://phpunit.de/) to run Unit and Integration tests.
+
+The following command will run the tests.
+
+```bash
+composer test
+```
+
 ## Mutation Tests
 
 This project uses [`infection`](https://infection.github.io/) to run mutation tests that ensure that we write quality tests.
