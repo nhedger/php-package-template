@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to this project.
 
-Please read the [code of conduct](./CODE_OF_CONDUCT.md) before getting started.
+Please read the [Code of Conduct](./CODE_OF_CONDUCT.md) before getting started.
 
 ## Coding Standards
 
