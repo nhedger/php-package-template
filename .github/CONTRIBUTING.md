@@ -12,22 +12,14 @@ This projects uses the following tools to enforce coding standards.
 - [`php-cs-fixer`](https://github.com/FriendsOfPHP/PHP-CS-Fixer) to enforce coding standards in PHP files
 - [`composer-normalize`](https://github.com/ergebnis/composer-normalize) to normalize `composer.json`.
 
-### Detecting
-Coding standard violations are automatically reported in GitHub Actions.
+Coding standard violations are will be automatically reported in GitHub Actions.
 
-Locally, the following command will report all coding standard violations.
-
-```bash
-composer standards
-```
-
-### Fixing
-
-Coding standard violations may be fixed automatically by running the following command.
+Locally, the following command will attempt to fix all coding standard violations.
 
 ```bash
 composer fix-standards
 ```
+
 
 ## Dependency Analysis
 
