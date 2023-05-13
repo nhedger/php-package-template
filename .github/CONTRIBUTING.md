@@ -22,7 +22,7 @@ composer fix-standards
 
 ## Tests
 
-This project uses [`phpunit`](https://phpunit.de/) to run Unit and Integration tests.
+This project uses [`phpunit`](https://phpunit.de/) to run unit tests and integration tests.
 
 The following command will run the tests.
 
