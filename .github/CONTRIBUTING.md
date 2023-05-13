@@ -8,7 +8,6 @@ Please read the [Code of Conduct](./CODE_OF_CONDUCT.md) before getting started.
 
 This projects uses the following tools to enforce coding standards.
 
-- [`yamllint`](https://github.com/adrienverge/yamllint) to enforce coding standards in YAML files
 - [`php-cs-fixer`](https://github.com/FriendsOfPHP/PHP-CS-Fixer) to enforce coding standards in PHP files
 - [`composer-normalize`](https://github.com/ergebnis/composer-normalize) to normalize `composer.json`.
 
