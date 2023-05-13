@@ -20,18 +20,6 @@ Locally, the following command will attempt to fix all coding standard violation
 composer fix-standards
 ```
 
-
-## Dependency Analysis
-
-This project uses [`composer-require-checker`](https://github.com/maglnet/ComposerRequireChecker) 
-to ensure that the source code does not depend on transitive dependencies.
-
-Dependency analysis can be run with the following command.
-
-```bash
-composer analyse-dependencies
-```
-
 ## Mutation Tests
 
 This project uses [`infection`](https://infection.github.io/) to run mutation tests that ensure that we write quality tests.
